@@ -1,6 +1,6 @@
 ## **Login Next JS App ✅**
 
-![Descrição da image(./public/next-login-app.png)
+![Descrição da image](./public/next-login-app.png)
 
 ## **💡 Informações sobre o projeto**
 Tela de login moderna e responsiva 2025. Para diferentes tipos de dispositivos utilizando todo o poder do Tailwind CSS.
